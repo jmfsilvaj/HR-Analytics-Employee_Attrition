@@ -1,0 +1,68 @@
+The Challenge 
+You  are  a  Data  Scientist  and  you  have  a  dataset  with  information  from  all  employees 
+that have been working at a specific company during a time window. 
+During these years, the Human Resources team collected data from employees and you 
+have  been  asked  to  predict  the  attrition  of  an  employee,  i.e.  the  probability  of  an  employee 
+with certain characteristics stay or quit his/her current job in the company. 
+Predicting the employee attrition can be a demanding task due the complexness or even 
+hidden information that may be behind the employee’s decision. Regardless the lack of some 
+crucial  information,  you must  build  a  model  to  use by this company’s Human Resource team 
+warning them about employees that potentially will quit. With something like that they can try 
+to use some preventions methods such as giving better salaries; promote new and interesting 
+projects; offer the opportunity to work remotely if the problem is related with job distance from 
+home, let them suggest new tools, etc... to avoid that. 
+This number of variables that may be involved but doing it may bring an enormous value 
+to the employee and to the company itself. 
+Another interesting mark of this use case is that many data sources can be used, giving 
+the  students  the  opportunity  to  build  a  good  training  set  for  their  models  and  a  good 
+understanding  of  the  feature extraction  process  (one  of  the  most  time consuming  and 
+challenging procedures in Machine Learning). 
+The customer we are working with is a multi-national company that works in 
+consultancy area. They want to correlate the distance from home with the attrition rate. They 
+also want to understand how important the variables are, and what makes an employee keep 
+working on the company. 
+The main goals are: 
+• Descriptive Analytics: Find correlations between the different variables, 
+possibility  of  clustering  analysis,  build  nice  visualizations  that  may  help  to  get 
+better insights for the analysis, check feature’s cardinality and analyze possible 
+highly correlation features that may be removed and still achieve good results. 
+• Predictive Analytics: Build classification models to predict the Attrition 
+probability and the final classification given by the model. 
+| Attribute                 | Description                                           |
+|---------------------------|-------------------------------------------------------|
+| Age                       | Age of the employee                                   |
+| Attrition                 | Employee leaving the company (0=no, 1=yes)           |
+| BusinessTravel            | Business travel frequency (1=No Travel, 2=Travel Frequently, 3=Travel Rarely) |
+| DailyRate                 | Daily salary rate                                     |
+| SalaryLevel               | Salary level                                          |
+| Department                | Department (1=HR, 2=R&D, 3=Sales)                    |
+| DistanceFromHome          | Distance from home to work                           |
+| Education                 | Education level                                      |
+| EducationField            | Education field (1=HR, 2=Life Sciences, 3=Marketing, 4=Medical Sciences, 5=Other, 6=Technical) |
+| EmployeeCount             | Employee count                                       |
+| EmployeeNumber            | Employee ID                                          |
+| EnvironmentSatisfaction   | Satisfaction with the work environment              |
+| Gender                    | Gender (1=Female, 2=Male)                            |
+| HourlyRate                | Hourly salary rate                                   |
+| JobInvolvement            | Job involvement level                                |
+| JobLevel                  | Job level                                            |
+| JobRole                   | Job role (1=HC Rep, 2=HR, 3=Lab Technician, 4=Manager, 5=Managing Director, 6=Research Director, 7=Research Scientist, 8=Sales Executive, 9=Sales Representative) |
+| JobSatisfaction           | Satisfaction with the job                            |
+| MaritalStatus             | Marital status (1=Divorced, 2=Married, 3=Single)    |
+| MonthlyIncome             | Monthly salary income                                |
+| MonthlyRate               | Monthly salary rate                                  |
+| NumCompaniesWorked        | Number of companies worked at                        |
+| Over18                    | Over 18 (1=Yes, 2=No)                               |
+| OverTime                  | Overtime work (1=No, 2=Yes)                         |
+| PercentSalaryHike         | Percentage increase in salary                        |
+| PerformanceRating         | Performance rating                                   |
+| RelationshipSatisfaction  | Satisfaction with relationships at work              |
+| StandardHours             | Standard working hours                               |
+| StockOptionLevel          | Stock option level                                   |
+| TotalWorkingYears         | Total years worked                                  |
+| TrainingTimesLastYear     | Hours spent on training last year                    |
+| WorkLifeBalance           | Work-life balance                                    |
+| YearsAtCompany            | Total number of years at the company                 |
+| YearsInCurrentRole        | Years in the current role                            |
+| YearsSinceLastPromotion   | Years since the last promotion                       |
+| YearsWithCurrManager      | Years spent with the current manager  
