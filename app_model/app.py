@@ -20,14 +20,12 @@ def predict():
     data = request.args.to_dict()
     df = pd.DataFrame([data])
 
-    # Transform categorical columns using label encoders
     for col in categorical_columns:
         if col in df.columns:
             df[col] = label_encoders[col].transform(df[col])
 
-    # Convert data types, as everything received from the URL will be a string
     for column in df.columns:
-        if column not in categorical_columns:  # We've already transformed categorical columns
+        if column not in categorical_columns: 
             df[column] = pd.to_numeric(df[column], errors='ignore')
 
     # Make prediction
