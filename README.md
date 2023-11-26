@@ -31,8 +31,7 @@ Instructions on how to set up the project environment:
 1. Clone the repo
 To get started, clone the repository to your local machine. If you're not familiar with how to clone a repository, you can find the instructions here.
 If you have git command line installed, use the following command:
-```bash
-git clone https://github.com/jmfsilvaj/Data-Science-Bootcamp.git
+```git clone https://github.com/jmfsilvaj/Data-Science-Bootcamp.git```
 
 
 2. Cd to the folder
