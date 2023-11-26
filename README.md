@@ -79,7 +79,7 @@ To get the most out of this project, we recommend the following steps:
 2. **Data Analysis Exploration**
    Dive deeper into the data with our Jupyter Notebooks that detail the exploratory data analysis process:
    - Start with `EDA.ipynb` for an initial exploration of the HR dataset.
-   - Continue with `test_HR.ipynb` for further analysis and hypothesis testing.
+   - Continue with `test_HR.ipynb` for further analysis.
 
 3. **Machine Learning Model Insights**
    Review the process of model selection and the performance of various algorithms:
