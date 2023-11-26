@@ -26,27 +26,41 @@ This project focuses on analyzing and predicting employee attrition using data s
 - `README.md`: Instructions and overview of the project (this file).
 
 ## Installation
+
 Instructions on how to set up the project environment:
 
-1. Clone the repo
-To get started, clone the repository to your local machine. If you're not familiar with how to clone a repository, you can find the instructions here.
-If you have git command line installed, use the following command:
-```git clone https://github.com/jmfsilvaj/Data-Science-Bootcamp.git```
+1. **Clone the repo**
+
+   To get started, clone the repository to your local machine. If you're not familiar with how to clone a repository, you can find the instructions [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+   If you have git command line installed, use the following command:
+
+git clone https://github.com/jmfsilvaj/Data-Science-Bootcamp.git
 
 
-2. Cd to the folder
-Open a terminal or command prompt and navigate to the cloned repository's folder. If you need help changing directories, here are the instructions.
+
+2. **Cd to the folder**
+
+Open a terminal or command prompt and navigate to the cloned repository's folder. If you need help changing directories, you can find the instructions [here](https://www.computerhope.com/issues/ch000772.htm).
+
 You can change the directory with the following command:
-```bash
+
 cd path/to/your/cloned/folder
 
-3. Install the PIP packages/dependencies
-Once you're in the correct folder, you should see your prompt change to indicate you're in the project directory (e.g., YourProjectName $). If not, make sure you've navigated to the right directory.
+
+
+
+3. **Install the PIP packages/dependencies**
+
+Once you're in the correct folder, you should see your prompt change to indicate you're in the project directory. If not, make sure you've navigated to the right directory.
+
 Then, install the required packages by running:
-```bash
+
 pip install -r requirements.txt
 
-This will install all the necessary Python libraries listed in your requirements.txt file.
+
+This will install all the necessary Python libraries listed in your `requirements.txt` file.
+
 
 ## Usage
 
