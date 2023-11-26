@@ -70,6 +70,29 @@ Instructions on how to set up the project environment:
 
 ## Usage
 
+To get the most out of this project, we recommend the following steps:
+
+1. **Project Overview**
+   Begin by viewing the project presentation to understand the scope, methodology, and findings of our analysis:
+   - Open the `Human Resources Analysis Predict Attrition.pptx` PowerPoint file.
+
+2. **Data Analysis Exploration**
+   Dive deeper into the data with our Jupyter Notebooks that detail the exploratory data analysis process:
+   - Start with `EDA.ipynb` for an initial exploration of the HR dataset.
+   - Continue with `test_HR.ipynb` for further analysis and hypothesis testing.
+
+3. **Machine Learning Model Insights**
+   Review the process of model selection and the performance of various algorithms:
+   - Examine `model_test_1.ipynb` and `model_test_2.ipynb` to see the tests performed on different machine learning models.
+   - Check out `model_final.ipynb` to understand the final model chosen for deployment.
+
+4. **Interactive Dashboard**
+   For interactive data exploration and visual analysis, load the PowerBI dashboard:
+   - Open `HR_Attrition_Dashboard.pbix` in PowerBI to explore the data and gain insights through a Business Intelligence tool.
+
+By following these steps, you will gain a comprehensive understanding of our project's approach to predicting employee attrition and how data science techniques can be applied to HR data.
+
+
 ## Contributing
 
 We welcome contributions to our project. If you have suggestions or want to contribute, please:
