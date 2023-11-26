@@ -110,10 +110,10 @@ We welcome contributions to our project. If you have suggestions or want to cont
 6. Create a new Pull Request.
 
 ## Contact Information
-Cláudia Gomes - (linkedin)
-Filipa Gonçalves - (linkedin)
-Frederico Rodrigues - (linkedin)
-João Silva - (linkedin)
+- Cláudia Gomes - [LinkedIn](https://www.linkedin.com/in/cláudia-gomes-4b8bbb191/)
+- Filipa Gonçalves - [LinkedIn](https://www.linkedin.com/in/filipa-gonçalves-71970115a/)
+- Frederico Rodrigues - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
+- João Silva - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 
 ## Acknowledgements
 Special thanks to Professors Henrique Carreiro and João Azambuja from NOVA IMS for their guidance and support throughout this project.
