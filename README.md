@@ -115,5 +115,6 @@ We welcome contributions to our project. If you have suggestions or want to cont
 - Frederico Rodrigues - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
 - João Silva - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 
+
 ## Acknowledgements
 Special thanks to Professors Henrique Carreiro and João Azambuja from NOVA IMS for their guidance and support throughout this project.
