@@ -35,9 +35,9 @@ Instructions on how to set up the project environment:
 
    If you have git command line installed, use the following command:
 
-   \`\`\`bash
+   ```
    git clone https://github.com/jmfsilvaj/Data-Science-Bootcamp.git
-   \`\`\`
+   ```
 
 2. **Cd to the folder**
 
@@ -45,9 +45,9 @@ Instructions on how to set up the project environment:
 
    You can change the directory with the following command:
 
-   \`\`\`bash
+   ```
    cd path/to/your/cloned/folder
-   \`\`\`
+   ```
 
 3. **Install the PIP packages/dependencies**
 
@@ -55,9 +55,9 @@ Instructions on how to set up the project environment:
 
    Then, install the required packages by running:
 
-   \`\`\`bash
+   ```
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
    This will install all the necessary Python libraries listed in your `requirements.txt` file.
 
