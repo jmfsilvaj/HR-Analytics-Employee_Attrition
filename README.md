@@ -12,6 +12,9 @@ This project focuses on analyzing and predicting employee attrition using data s
 - `Notebooks/EDA.ipynb`: Perform exploratory data analysis on the HR dataset.
 - `Notebooks/test_HR.ipynb`: Further analysis on the HR dataset.
 
+### Plots
+- `Plots/`: This folder contains visualizations and figures generated from the exploratory data analysis and model evaluation. Here you can find quick visual insights into the HR data without running the full notebooks.
+
 ### Machine Learning Models
 - `Notebooks/model_test_1.ipynb`: Test several Machine Learning Models with different variables.
 - `Notebooks/model_test_2.ipynb`: Further testing of Machine Learning Models with different variables.
@@ -88,6 +91,9 @@ To get the most out of this project, we recommend the following steps:
 4. **Interactive Dashboard**
    For interactive data exploration and visual analysis, load the PowerBI dashboard:
    - Open `Dashboard/HR_Attrition_Dashboard.pbix` in PowerBI to explore the data and gain insights through a Business Intelligence tool.
+
+5. **Visual Insights**
+   For a quick visual understanding of the analysis, browse through the plots in the `Plots` folder. These images provide a snapshot of the data distributions, trends, and patterns identified in the analysis.
 
 By following these steps, you will gain a comprehensive understanding of our project's approach to predicting employee attrition and how data science techniques can be applied to HR data.
 
