@@ -3,20 +3,26 @@
 ## Introduction
 This project focuses on analyzing and predicting employee attrition using data science techniques. It is a comprehensive exploration of HR data, aiming to provide actionable insights for HR departments to control and reduce employee turnover.
 
-## Project Structure
+## Project Contents
 
 ### Data Files
 - `HR_DS.csv`: The dataset used for analysis and model training.
 
-### Jupyter Notebooks / Python
-- `EDA.ipynb` and `test_HR.ipynb`: Perform exploratory data analysis on the HR dataset.
-- `model_test_1.ipynb` and `model_test_2.ipynb`: Test several Machine Learning Models with different variables.
+### Data Analysis Notebooks
+- `EDA.ipynb`: Perform exploratory data analysis on the HR dataset.
+- `test_HR.ipynb`: Perform exploratory data analysis on the HR dataset.
+
+### Machine Learning Models
+- `model_test_1.ipynb`: Test several Machine Learning Models with different variables.
+- `model_test_2.ipynb`: Test several Machine Learning Models with different variables.
 - `model_final.ipynb`: The final model after various testing phases.
 - `Model_script.py`: A script of our final model, to be used in PowerBI.
-- `HR_Attrition_Dashboard.pbix`: A PowerBI dashboard for HR departments to monitor and control employee attrition.
-- `Human Resources Analysis Predict Attrition.pptx`: PowerPoint presentation of the project.
 
-### Documentation
+### Visualization and Reporting
+- `HR_Attrition_Dashboard.pbix`: A PowerBI dashboard for HR departments to monitor and control employee attrition.
+- `Human Resources Analysis Predict Attrition.pptx`: PowerPoint presentation summarizing the project findings and methodology.
+
+### Project Documentation
 - `NOVA_IMS_-_Human-Resources-Employee-Attrition.pdf`: Project documentation.
 
 ### Miscellaneous
@@ -41,7 +47,7 @@ Instructions on how to set up the project environment:
 
 2. **Cd to the folder**
 
-   Open a terminal or command prompt and navigate to the cloned repository's folder. If you need help changing directories, you can find the instructions [here](https://www.computerhope.com/issues/ch000772.htm).
+   Open a terminal or command prompt and navigate to the cloned repository's folder.
 
    You can change the directory with the following command:
 
@@ -63,6 +69,17 @@ Instructions on how to set up the project environment:
 
 
 ## Usage
+
+## Contributing
+
+We welcome contributions to our project. If you have suggestions or want to contribute, please:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a new Pull Request.
 
 ## Contact Information
 Cláudia Gomes - (linkedin)
