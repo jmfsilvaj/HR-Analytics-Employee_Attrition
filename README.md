@@ -110,10 +110,10 @@ We welcome contributions to our project. If you have suggestions or want to cont
 6. Create a new Pull Request.
 
 ## Contact Information
-- Cláudia Gomes - 20221615 - [LinkedIn](https://www.linkedin.com/in/cláudia-gomes-4b8bbb191/)
-- Filipa Gonçalves - 20222157 - [LinkedIn](https://www.linkedin.com/in/filipa-gonçalves-71970115a/)
-- Frederico Rodrigues - 20222159 - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
-- João Silva - 20222190 - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
+- João Silva - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
+- Cláudia Gomes - [LinkedIn](https://www.linkedin.com/in/cláudia-gomes-4b8bbb191/)
+- Filipa Gonçalves - [LinkedIn](https://www.linkedin.com/in/filipa-gonçalves-71970115a/)
+- Frederico Rodrigues - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
 
 
 ## Acknowledgements
