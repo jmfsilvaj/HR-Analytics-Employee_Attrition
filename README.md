@@ -1,4 +1,4 @@
-# Enterprise Data Science Bootcamp Project
+# HR Analytics - Employee Attrition
 
 ## Introduction
 This project focuses on analyzing and predicting employee attrition using data science techniques. It is a comprehensive exploration of HR data, aiming to provide actionable insights for HR departments to control and reduce employee turnover.
